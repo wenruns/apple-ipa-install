@@ -9,7 +9,7 @@
 namespace wenruns\apple\ipa\install;
 
 
-class MobileConfigController
+class MobileConfig
 {
 
 }
